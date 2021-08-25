@@ -1,0 +1,54 @@
+{
+  "_from": "instant-sql-formatter",
+  "_inBundle": false,
+  "_integrity": "sha512-vFQcoBgAL5YoCGMScNh2Si2bn4D+sLlqLiAF/FdZoOWONxaYaIMNzZ8fwQreYZNh8sl5ayYnjYn/jZVNPDYN+A==",
+  "_location": "/instant-sql-formatter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "instant-sql-formatter",
+    "name": "instant-sql-formatter",
+    "escapedName": "instant-sql-formatter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/instant-sql-formatter/-/instant-sql-formatter-1.0.1.tgz",
+  "_shasum": "337132cb6740b3f4b75af9e41244437f7c7d9fce",
+  "_spec": "instant-sql-formatter",
+  "_where": "/workspace/roadrunner",
+  "author":  "AngLaboratory <anglaboratory@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/AngLaboratory/instant-sql-formatter/issues"
+  },
+  "deprecated": false,
+  "description": "SQL Formatter With Customizing Options(HTML, DBMS, etc...)",
+  "homepage": "https://github.com/AngLaboratory/instant-sql-formatter#readme",
+  "keywords": [
+    "sql format",
+    "sql formatter",
+    "https://www.dpriver.com/pp/sqlformat.htm",
+    "Instant SQL Formatter",
+    "beautiful",
+    "color",
+    "lint",
+    "HTML",
+    "SQL Pretty Printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "instant-sql-formatter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngLaboratory/instant-sql-formatter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
